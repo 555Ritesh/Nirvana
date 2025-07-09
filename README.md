@@ -2,6 +2,11 @@
 
 Nirvana is a music recommendation application that suggests songs based on mood detection through facial expressions. This enhanced version includes user authentication, song liking/saving, and a personalized dashboard.
 
+<img src="img/img1.png" alt="Project image1" width="100%" height="555">
+<img src="img/img2.png" alt="Project image2" width="100%" height="555">
+<img src="img/img3.png" alt="Project image3" width="100%" height="555">
+<img src="img/img4.png" alt="Project image4" width="100%" height="555">
+
 ## Features
 
 - User authentication (signup, login, logout)
