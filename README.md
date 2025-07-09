@@ -156,7 +156,7 @@ The trained Random Forest model (`random_forest_model1.pkl`) is too large to upl
 
 👉 You can download it from Google Drive:
 
-🔗 [Click here to download random_forest_model1.pkl (ZIP)](https://drive.google.com/uc?id=1qOc8kVBfICRKHK8LcxBEd9DKJDGTY-Gu/view?usp=drive_link)
+🔗 [Click here to download random_forest_model1.pkl (ZIP)](https://drive.google.com/file/d/1qOc8kVBfICRKHK8LcxBEd9DKJDGTY-Gu/view?usp=drive_link)
 
 📌 **Instructions:**
 1. Download the `.zip` file from the link.
